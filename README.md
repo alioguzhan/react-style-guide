@@ -304,7 +304,7 @@
     <img src="hello.jpg" alt="Me waving hello" />
     ```
 
-  - Yalnızca geçerli, soyut olmayan [ARIA roles](https://www.w3.org/TR/wai-aria/roles#role_definitions) kullanın. eslint: [`jsx-a11y/aria-role`](https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/aria-role.md)
+  - Yalnızca geçerli, soyut olmayan [ARIA roles](https://www.w3.org/TR/wai-aria-1.1/#role_definitions) kullanın. eslint: [`jsx-a11y/aria-role`](https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/aria-role.md)
 
     ```jsx
     // kötü - bir ARIA role değil
