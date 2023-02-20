@@ -4,7 +4,7 @@
 
 *React and JSX konularına oldukça makul bir yaklaşım*
 
-## içindekiler
+## içindeki
 
   1. [Temel Kurallar](#temel-kurallar)
   1. [Class vs `React.createClass` vs stateless](#class-vs-reactcreateclass-vs-stateless)
